@@ -1,0 +1,7 @@
+Aliens
+Robots
+Dwarves
+Ogres
+Elves
+Humans
+Undead
